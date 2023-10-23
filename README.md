@@ -1,5 +1,6 @@
 ﻿# My-Protofile-
-"C:\Users\DELL\Desktop\Projects haru\Protofile Hari\My-Protofile-\images\my profile.png"
+![Uploading my profile.png…]()
+
 
 
 
