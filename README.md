@@ -1,5 +1,6 @@
 ﻿# My-Protofile-
-[Image]![Uploading my profile.png…]()
+![Uploading my profile.png…]()
+
 
 
 Responsive personal portfolio website using HTML CSS and JavaScript. Includes CSS animations with beautiful dark interface. 
