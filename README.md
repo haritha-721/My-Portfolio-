@@ -1,6 +1,5 @@
 ﻿# My-Protofile-
-![Uploading my profile.png…]()
-
+![my profile](https://github.com/haritha-721/My-Protofile-/assets/108216615/c2461f7d-f959-427f-bc48-db85bb0b381f)
 
 
 
